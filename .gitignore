@@ -1,2 +1,4 @@
-INSTRUCTIONS.md
-CLAUDE.md
+designdoc.md
+node_modules/
+package.json
+package-lock.json
